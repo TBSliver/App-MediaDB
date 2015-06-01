@@ -1,0 +1,9 @@
+# App specific ignore files
+app_mediadb_local.conf
+
+# Toolchain ignore gubins
+blib/
+inc/
+Makefile
+META.*
+MYMETA.*
